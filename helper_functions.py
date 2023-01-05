@@ -9,6 +9,7 @@ import numpy as np
 import pandas as pd
 import random
 import os
+import zipfile
 
 
 def show_ds_images(ds, class_names):
