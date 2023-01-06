@@ -134,11 +134,9 @@ def show_nine_images(data, labels):
     Shows nine images stored in an np array along with their labels
     """
     plt.figure(figsize=(20, 20))
-    fig, ax = plt.subplots(3, 3, sharex=True, sharey=True)
-
-    for i in range(3):
-        for j in range(3):
-            label = labels[i * 3 + j]
-            ax[i, j].plot(data[i * 3 + j]).title(label)
-
-    plt.show()
+    for i in range(9):
+        ax = plt.subplot(3, 3, i+1)
+        rand_index = random.choice(range(len(data)))
+        plt.imshow(data[rand_index], cmap=plt.cm.binary)
+        plt.title(labels[rand_index])
+        plt.axis(False)
