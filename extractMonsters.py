@@ -81,26 +81,6 @@ def get_conditions_by_slug(slug):
     print(f"Data exported to {json_filename} successfully.")
     return simplified_conditions
 
-def get_conditions_by_slug(slug):
-    url = f'https://api.open5e.com/conditions/?document__slug={slug}'
-    conditions = []
-
-    while url:
-        response = requests.get(url)
-        if response.status_code == 200:
-            data = response.json()
-            conditions.extend(data['results'])
-            url = data['next']
-        else:
-            print(f"Failed to retrieve data from API. Status code: {response.status_code}")
-            return
-
-    simplified_conditions = [{'name': condition['name'], 'slug': condition['slug']} for condition in conditions]
-    json_filename = "srd_conditions.json"
-    export_to_json(simplified_conditions, json_filename)
-    print(f"Data exported to {json_filename} successfully.")
-    return simplified_conditions
-
 def get_magic_items_by_slug(slug):
     url = f'https://api.open5e.com/magicitems/?document__slug={slug}'
     magic_items = []
