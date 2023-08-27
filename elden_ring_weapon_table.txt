@@ -1,0 +1,36 @@
+| Hammer |1d4 bludgeoning|1 lb.|Light|
+| Greatclub|1d8 bludgeoning|7 lb.|Two-Handed|
+| Dagger|1d4 piercing|1 lb.|Finesse, light, thrown (range 20/60)|
+| Axe |1d6 slashing|3 lb.|Light, thrown (range 20/60)|
+| Hammer |1d8 bludgeoning|3 lb.|Versatile (1d10)|
+| Spear|1d6 piercing|3 lb.|Thrown (range 20/60), versatile (1d8)|
+| Caestus|1d4 bludgeoning|1 lb|Light, special|
+| Claws|1d4 slashing |4 lb.| Light, Versatile (1d8)|
+| Torch|1d4 fire|1 lb.| - |
+| Longsword |1d8 slashing|3 lb.|Versatile (1d10)|
+| Shortsword | 1d6 piercing|3 lb.|Light, Finesse|
+| curved sword |1d6 piercing|3 lb.|Light, Finesse|
+| Greatsword|2d6 slashing|6 lb.|Heavy, two-handed|
+| Colossal Sword |3d6 slashing|6 lb.|Heavy, two-handed, special|
+| Rapier|1d8 piercing|2 lb.|Finesse|
+| Heavy Rapier|1d10 piercing|2 lb.|Finesse, Heavy, Two-Handed|
+| Shortsword|1d6 slashing|3 lb.|Finesse, light|
+| Curved Greatsword|1d10 slashing|3 lb.|Finesse, Heavy, Two-Handed|
+| Katana|1d8 slashing|2 lb.|Finesse|
+| Twinblade|1d8 slashing|6 lb.|Two-handed, Special|
+| Battleaxe|1d8 slashing |4 lb.|Versatile (1d10)|
+| Greataxe|1d12 slashing|7 lb.|Heavy, two-handed|
+| Flail|1d8 slashing|2 lb.|-|
+| Greathammer|2d6 bludgeoning|10 lb|Heavy, two-handed|
+| Colossal Weapon |3d6 Bludgeoning|6 lb.|Heavy, two-handed, special|
+| Lance |1d12 piercing|6 lb.|Reach, special|
+| Halberd|1d10 slashing|6 lb.|Heavy, reach, two-handed|
+| Pike|1d10 piercing|18 lb.|Heavy, two-handed|
+| Reaper|1d8 piercing|3 lb.|finesse, two-handed, reach|
+| Whip|1d4 slashing|3 lb.|Finesse, reach|
+| Shortbow|1d6 piercing|2 lb.|Ammunition (range 80/320), two-handed|
+| Light Crossbow|1d8 piercing|5 lb.|Ammunition (range 80/320), loading, two-handed|
+| Throwing Knife| 1d4 piercing| 1/4 lb. |Finesse, thrown (range 20/60)|
+| Longbow|1d8 piercing|2 lb.|Ammunition (range 150/600), heavy, two-handed|
+| Greatbow|1d10 piercing|15 lb.|Ammunition (range 200/800), heavy, two-handed, special|
+| Heavy Crossbow|1d10 piercing|18 lb.|Ammunition (range 100/400), heavy, loading, two-handed|

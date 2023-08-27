@@ -1,0 +1,280 @@
+### Battleaxe
+
+##### Weapon (battleaxe), uncommon
+
+*Commonly known as a hatchet, this smaller variety of axe is an everyday work tool. Despite its short reach, it is easy to handle, excelling in successive attacks.*
+___
+
+**Weapon Skill: Wild Strikes (2 SP)** When you make your first Attack on Your Turn, you can decide to Attack recklessly. Doing so gives you advantage on melee weapon Attack rolls using Strength during this turn, but Attack rolls against you have advantage until your next turn.
+
+### Soldier’s Crossbow
+
+##### Weapon (light crossbow), common
+
+*An unconventional ballistic device modeled on a weapon used to besiege castles. Only capable of firing greatbolts. Perfect for reckless acts such as storming a castle or facing an entire army alone.*
+___
+
+**Weapon Skill: Kick (0 SP)** While wielding this weapon, you have advantage on shove attacks made to push an enemy away from you.
+
+### Longbow
+
+##### Weapon (longbow), common
+
+*Longbow made to fire arrows over great distances. Compared to a shortbow, arrows fired reach further and deal more damage.*
+___
+
+**Weapon Skill: Mighty Shot (1 SP)** As a bonus action, you prepare a well placed shot with this bow. The next attack roll you make with this bow this turn is made at advantage.
+
+### Hookclaws
+
+##### Weapon (claws), common
+
+*Weapon worn on the fist comprised of sharp parallel blades favored by those who lurk in the dark. Claw weapons come in pairs, and two-handing this weapon will equip it to both hands.*
+___
+
+**Weapon Skill: Quickstep (1 SP)** As a bonus action, you move up to 5 feet in any direction without provoking attacks of opportunity.
+
+### Greatsword
+
+##### Weapon (colossal sword), uncommon
+
+*A coarse iron lump of an ultra greatsword. Mows down foes by utilizing its incredible weight. Though handling it likely requires the wielder to have surpassed the realm of the merely human, it is precisely for this reason the weapon is used to slaughter even inhuman foes.*
+___
+
+**Weapon Skill: Stamp (Upward Cut) (2 SP)** You stomp on the ground, kicking up dust and bracing yourself. Until the end of your next turn, you have advantage on ability checks and saving throws made to avoid being knocked prone or shoved. As an action while you are braced, you can make a single attack roll at advantage with this weapon.
+
+### Duelist’s Greataxe
+
+##### Weapon (colossal weapon), common
+
+*Greataxe designed for gladiatorial combat. Used by duelists who were exiled from the colosseum. A weapon reserved for duelist champions, the charge attack is particularly ferocious.*
+___
+
+**Weapon Skill: Endure (1 SP)** As an action, you root yourself firmly in the ground. Until the beginning of your next turn, your movement speed is halved and you have advantage on ability checks and saving throws made to avoid being knocked prone or shoved. In addition, you gain resistance to bludgeoning, piercing, and slashing damage.
+
+### Hand Ballistae
+
+##### Weapon (heavy crossbow), common
+
+*A crossbow of simple make, usable by anyone, but lacking in both power and accuracy.*
+___
+
+**Weapon Skill: Kick (0 SP)** While wielding this weapon, you have advantage on shove attacks made to push an enemy 5 feet away from you.
+
+### Dismounter
+
+##### Weapon (curved greatsword), uncommon
+
+*This curved greatsword wielded by the brawny sellswords of Kaiden combines the blades of a scimitar with the heft of a hatchet. A difficult to handle weapon that demands much of the wielder's strength and dexterity, but with practice and ability, it can serve as a versatile weapon even on horseback. *
+___
+
+While wielding this weapon, you have advantage on Shove attacks made to knock a rider off of their mount (eg. knocking them prone to force a dismount save).
+
+**Weapon Skill: Spinning Slash (4 SP)** As an action, you spin your blade in a circle around you, attacking a number of separate targets equal to your proficiency modifier at disadvantage.
+
+### Scimitar
+
+##### Weapon (curved sword), uncommon
+
+*A curved sword with a single-sided blade. Delivers slashing attacks with its sharp blade, but is ineffective against armor and hides covered in tough scales. Smaller in size than most curved swords, it carves into enemies with quick, sharp cuts.*
+___
+
+**Weapon Skill: Spinning Slash (4 SP)** You spin your blade in a circle around you, attacking a number of separate targets equal to your proficiency modifier. These attacks are made at disadvantage.
+
+### Dagger
+
+##### Weapon (dagger), uncommon
+
+*A knife with curved handguards. Designed to parry, turning foes' attacks against them. For masters of combat who anticipate every enemy strike and counter accordingly, this weapon is all they need.*
+
+___
+
+**Weapon Skill: Quickstep (2 SP)** As a free action you can move up to 5 feet in any direction without provoking attacks of opportunity.
+
+### Flail
+
+##### Weapon (flail), common
+
+*Weapon consisting of a bludgeoning head attached to a handle by chain. The iron ball is spiked and induces blood loss. Blows from this weapon cannot be parried. The charge attack whirls the iron ball around for increased force before striking.*
+___
+
+**Weapon Skill: Spinning Chain (3 SP)** As a bonus action, you begin spinning the spiked ball on the end of your flail. Until the end your next turn, when a creature within 5 feet of you makes a melee attack against you, you may make an attack with this weapon at the creature..
+
+### Large Club
+
+##### Weapon (colossal weapon), common
+
+*Greataxe designed for gladiatorial combat. Used by duelists who were exiled from the colosseum. A weapon reserved for duelist champions, the charge attack is particularly ferocious.*
+___
+
+**Weapon Skill: Barbaric Roar (2 SP)** As a bonus action, you bellow a bestial roar, bolstering yourself. For a number of rounds equal to your proficiency bonus, your attack and damage rolls with Heavy weapons are increased by 1.
+
+### Lance
+
+##### Weapon (lance), common
+
+*Considered a type of greatspear, this weapon has no blade, but instead features a long, conical body designed to pierce. Though heavy and hard to wield, this weapon displays its worth in horseback combat whether mounted or even on foot.*
+___
+
+**Weapon Skill: Charge Forth (3 SP)** As an action, you move up to your movement speed in a straight line without provoking an attack of opportunity and make an attack at advantage at a creature within your reach.
+
+### Great Epee
+
+##### Weapon (heavy rapier), uncommon
+
+*Large rapier featuring a thin, sharp blade. Commonly used in life or death duels. Like its smaller counterparts, it is made for thrusting attacks, and can be used while guarding with a shield.*
+___
+
+**Weapon Skill: Impaling Thrust (1 SP)** As a bonus action, you keenly thrust your blade between an opponent's guard. Until the beginning of your next turn, attacks you make with this weapon ignore the AC bonus of shields the target wields.
+
+### Greataxe
+
+##### Weapon (greataxe), common
+
+*Greataxe akin to a huge lump of iron. Recognized as the weapon of choice of badland chieftains. Too heavy to be wielded by those of merely ordinary strength, blows from this axe will flatten enemies, and the force of its charged attack is a sight to behold.*
+___
+
+**Weapon Skill: Barbaric Roar (2 SP)** As a bonus action, you bellow a bestial roar, bolstering yourself. For a number of rounds equal to your proficiency bonus, your attack and damage rolls with Heavy weapons are increased by 1.
+
+### Greatbow
+
+##### Weapon (greatbow), common
+
+*Enormous greatbow larger than any man. Can not be drawn with any ordinary level of strength, but the force of its shots is extraordinary. A greatbow can only fire great arrows.*
+___
+
+**Weapon Skill: Through and Through (4 SP)** As an action, you draw the string of your greatbow as far as it will go, firing a greatarrow in a straight line of length equal to the bow’s first range increment. Make an attack roll against the creature in that line nearest to you. On a hit, the target takes damage as normal and the arrow punctures through them and continues in the line, striking each target in the line. Each target hit reduces the attack roll of the arrow by 1.
+
+### Claymore
+
+##### Weapon (greatsword), common
+
+*A large sword with a long, straight blade. This heavy sword is usually wielded with two hands, but for those with enough strength, one is sufficient. In addition to the heavy sweeping attacks, it can also make a heavy piercing thrust making this a versatile weapon.*
+___
+
+**Weapon Skill: Lion’s Claw (2 SP)** You move up to 5 feet into a somersaulting long jump without provoking attacks of opportunity, making a single attack at advantage at a creature within your reach when you land.
+
+### Halberd
+
+##### Weapon (halberd), common
+
+*A long-handled polearm that combines the functions of both axe and spear. Can be used to press a single enemy with continuous thrusting attacks or swept at groups, taking advantage of its great reach and cleaving blade. A versatile weapon for any situation. *
+___
+
+**Weapon Skill: Charge Forth (3 SP)** As an action, you move up to your movement speed in a straight line without provoking an attack of opportunity and make an attack at advantage at a creature within your reach.
+
+### Club
+
+##### Weapon (hammer), uncommon
+
+*A thick, solid lump of wood. Wielding this striking weapon requires no skill. A simple, primitive weapon that requires only brute strength and persistence to hammer your foe into the ground.*
+
+___
+
+**Weapon Skill: Barbaric Roar (2 SP)** As a bonus action, you bellow a bestial roar, bolstering yourself. For a number of rounds equal to your proficiency bonus, your attack and damage rolls with Heavy weapons are increased by 1.
+
+### Uchigatana
+
+##### Weapon (katana), uncommon
+
+*A katana with a long single-edged curved blade. A unique weapon wielded by the samurai from the Land of Reeds. The blade, with its undulating design, boasts extraordinary sharpness, and its slash attacks cause blood loss.*
+___
+
+**Weapon Skill: Unsheathe (1 SP)** As a bonus action, you sheathe your blade and prepare yourself for whatever comes your way. Until you make an attack roll, you have advantage on attacks made as a reaction.
+
+### Shortbow
+
+##### Weapon (shortbow), common
+
+*Small bow made to fire arrows over great distances. Other than its ability to fire off arrows in rapid succession, it is also well-suited for use on horseback.*
+___
+
+**Weapon Skill: Barrage (3 SP)** As a bonus action, you make an attack roll with this bow at a target within this bow’s first range increment at disadvantage.
+
+### Rapier
+
+##### Weapon (rapier), uncommon
+
+*A piercing sword with a sharp, slender blade. In addition to this weapon's thrusting attack prowess, it also boasts the ability to be used while guarding with a shield. As one of the smaller piercing swords, quick successive thrust area easy to perform, but without a cutting edge, it cannot be used for slashing attacks.*
+___
+
+**Weapon Skill: Impaling Thrust (1 SP)** As a bonus action, you keenly thrust your blade between an opponents guard. Until the beginning of your next turn, attacks you make with this weapon ignore the AC bonus of shields the target wields.
+
+### Scythe
+
+##### Weapon (reaper), common
+
+*Large scythe featuring a long, slender blade. Designed to reap, this weapon is capable of rapidly inflicting blood loss while also slipping through an enemy's guard. In the hands of a highly dexterous wielder it is capable of striking fear into the heart of any foe. *
+___
+
+**Weapon Skill: Spinning Slash (4 SP)** You spin your blade in a circle around you, attacking a number of separate targets equal to your proficiency modifier at disadvantage.
+
+### Short Spear
+
+##### Weapon (spear), common
+
+*An exceedingly plain spear of modest weight. Simple to wield compared to many of its peers, its strong attack unleashes a series of successive piercing thrusts.*
+___
+
+**Weapon Skill: Impaling Thrust (1 SP)** As a bonus action, you keenly thrust your blade between an opponent's guard. Until the beginning of your next turn, attacks you make with this weapon ignore the AC bonus of shields the target wields.
+
+### Longsword
+
+##### Weapon (longsword), common
+
+*A straight sword with a double-edged blade. In addition to its easily-inflicted standard damage, this well-balanced weapon can also perform powerful piercing attacks.*
+___
+
+**Weapon Skill: Square Off (1 SP)** As a bonus action, you enter a prepared stance until the beginning of your next turn. While prepared, you may make an attack of opportunity against any creature who enters your reach.
+
+### Twinblade
+
+##### Weapon (twinblade), uncommon
+
+*A sword with blades on both sides of the hilt. This weapon is difficult to wield, and requires high dexterity.*
+
+___
+
+**Weapon Skill: Spinning Slash (4 SP)** You spin your blade in a circle around you, attacking a number of separate targets equal to your proficiency modifier at disadvantage.
+
+
+### Whip
+
+##### Weapon (whip), common
+
+*A leather whip. Not originally used for combat, but as an instrument of pain. Its supple attacks cannot be thwarted by parrying or even guarding*
+___
+
+**Weapon Skill: Kick (0 SP)** While wielding this weapon, you have advantage on shove attacks made to push an enemy 5 feet away from you.
+
+### Caestus
+
+##### Weapon (caestus), common
+
+*A weapon built for striking with the fists, made of tough leather inlaid with iron rivets. Fist weapons come in pairs, and two-handing this weapon will equip it to both hands.*
+___
+
+**Weapon Skill: Endure (2 SP)** As an action, you root yourself firmly in the ground. Until the beginning of your next turn, your movement speed is halved and you have advantage on ability checks and saving throws made to avoid being knocked prone or shoved. In addition, you gain resistance to bludgeoning, piercing, and slashing damage.
+
+### Throwing Knife
+
+##### Weapon (throwing knife), common
+
+*Short dagger for throwing. It has no handguard. The blade is polished, and its weight is expertly balanced. This auxiliary weapon, used primarily to constrain an enemy's movements, can still be deadly in the right hands.*
+___
+
+**Weapon Skill: None**
+
+### Torch
+
+##### Weapon (torch), common
+
+*This torch's tip is wrapped in oil-soaked rags and set on fire. The flame can illuminate dark locales, or used to attack enemies.*
+
+___
+
+The torch sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
+
+The flame of this torch burns eternal, but can be snuffed or lit as an action.
+
+**Weapon Skill: None**

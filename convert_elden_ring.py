@@ -4,16 +4,17 @@ import re
 
 
 def csv_to_dict(csv_path):
-    data = []
+    csv_data = []
 
     with open(csv_path, 'r') as csv_file:
         csv_reader = csv.DictReader(csv_file)
         header = csv_reader.fieldnames
 
         for row in csv_reader:
-            data.append({header[i]: row[header[i]] for i in range(len(header))})
+            csv_data.append({header[i]: row[header[i]] for i in range(len(header))})
 
-    return data
+    print(csv_data)
+    return csv_data
 
 
 def parse_aow_text_file(text_path):
@@ -43,11 +44,13 @@ def parse_aow_text_file(text_path):
             elif line.startswith("*"):
                 current_object["lore"] = line.strip("* \n")
             elif line.strip() == "___":
-                if object != {}:
+                if current_object != {}:
                     objects.append(current_object)
-                current_object = {"description": ""}
+                    current_object = {"description": ""}
             elif line.strip():
                 current_object["description"] += line.strip()
+
+    objects.append(current_object)
 
     return objects
 
@@ -126,6 +129,39 @@ def parse_weapon_text_file(text_path, weapons):
             elif line.strip():
                 current_object["description"] = line.strip().replace('*', '', -1)
 
+    objects.append(current_object)
+
+    return objects
+
+def parse_magic_weapon_text_file(text_path):
+
+    objects = []
+    current_object = {}
+
+    with open(text_path, 'r') as text_file:
+        lines = text_file.readlines()
+
+        for line in lines:
+            if line.startswith("### "):
+                print(current_object)
+                if current_object != {}:
+                    objects.append(current_object)
+                current_object = {"name": line.strip("# \n").replace("â€™", "'"),
+                                  "slug": line.strip("# \n").replace("â€™", "'")}
+
+            elif "##### " in line:
+                item_type = line.strip()
+                current_object["type"] = item_type.strip('##### ')
+            elif line.startswith("*"):
+                current_object["lore"] = line.strip("*#_\n")
+            elif line.strip():
+                if "description" in current_object:
+                    current_object["desc"] += line
+                else:
+                    current_object["desc"] = line
+
+    objects.append(current_object)
+
     return objects
 
 
@@ -143,9 +179,13 @@ if __name__ == '__main__':
     weapons_txt = 'elden_ring_weapons.txt'
     parsed_weapons = parse_weapon_text_file(weapons_txt, weapon_table)
 
+    magic_items_txt = 'magic_items.txt'
+    parsed_magic_weapons = parse_magic_weapon_text_file(magic_items_txt)
+
     data = [{"name": "Spells", "items": elden_ring_spells},
             {"name": "Ashes of War", "items": parsed_aow},
-            {"name": "Weapons", "items": parsed_weapons}]
+            {"name": "Weapons", "items": parsed_weapons},
+            {"name": "Magic Items", "items": parsed_magic_weapons}]
 
     elden_ring_json = 'elden_ring.json'  # Replace with the desired JSON output file path
 
